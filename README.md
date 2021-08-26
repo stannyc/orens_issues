@@ -17,5 +17,5 @@ Please follow the following rules to submit issues:
    - [ANDROID] Login With Phone Showing Error
    
 3. Issue Description
-   Pleaese provide brief description on the issue, to make it easier for dev department to reproduce and solve the issue... Screenshoots of the errors or but would is very helpfull in doing so.
+   Pleaese provide brief description on the issue, to make it easier for dev department to reproduce and solve the issue... Screenshoots of the errors/found-bug is very helpfull.
     
