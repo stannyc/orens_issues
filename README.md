@@ -1,2 +1,21 @@
-# orens_issues
-Issue tracking repository for ORENS app
+# ORENS APP ISSUE TRACKING #
+
+Issue tracking repository for all TYPES of ORENS system, this including
+
+- Orens ANDROID App,
+- Orens IOS App,
+- Orens WEB
+- Orens DASHBOARD
+
+##Issue Submission Rules:
+
+Please follow the following rules to submit issues:
+
+
+1. Issue Title: 
+   Each issue's title must mentioned the TYPE of the the system. for example:
+   - [ANDROID] Login With Phone Showing Error
+   
+3. Issue Description
+   Pleaese provider brief description on the issue, to make it easier for dev department to reproduce and solve the issue... Screenshoots of the errors or but would is very helpfull in doing so.
+    
